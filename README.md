@@ -83,7 +83,3 @@ base_dir = './e-waste-image-dataset'
 📍 B.Tech Computer Engineering Student  
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
