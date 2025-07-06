@@ -77,32 +77,10 @@ base_dir = './e-waste-image-dataset'
 
 ---
 
-## 🖼️ Gradio Web App
-
-The last section launches a simple Gradio web interface:
-
-```python
-iface.launch()
-```
-
-Upload any e-waste image and see the model prediction with confidence scores.
-
----
-
-## 📈 Sample Output
-
-```
-Test Accuracy: 0.95
-Test Loss: 0.12
-```
-
----
-
 ## 🛠️ Author
 
 **Ayush Agrawal**  
 📍 B.Tech Computer Engineering Student  
-📫 [Your Email or LinkedIn]
 
 ---
 
